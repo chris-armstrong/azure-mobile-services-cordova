@@ -1,0 +1,24 @@
+{
+  "name": "cordova-plugin-azure-mobile-services",
+  "version": "1.2.9",
+  "description": "Azure Mobile Services (classic) API packaged as a cordova plugin (unofficial)",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-armstrong/azure-mobile-services-cordova.git"
+  },
+  "keywords": [
+    "azure",
+    "mobile-services",
+    "cordova",
+    "phonegap"
+  ],
+  "author": "Chris Armstrong",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/chris-armstrong/azure-mobile-services-cordova/issues"
+  },
+  "homepage": "https://github.com/chris-armstrong/azure-mobile-services-cordova#readme"
+}

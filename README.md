@@ -1,6 +1,11 @@
 Apache Cordova plugin for Azure Mobile Services
 =============================
 
+This is a unofficial, repackaged version of the Azuer Mobile Services (classic) API. It is a fork of the original
+Microsoft packaging that has been updated to work with newer versions of Cordova and Phonegap.
+
+--------
+
 With Microsoft Azure Mobile Services you can add a scalable backend to your connected client applications in minutes.
 
 To learn more, visit our [Developer Center](http://azure.microsoft.com/en-us/develop/mobile/).
